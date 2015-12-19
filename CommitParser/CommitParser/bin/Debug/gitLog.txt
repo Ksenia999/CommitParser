@@ -1,0 +1,217 @@
+
+commit a442e467549f2937f7373086b8c0761b10c65ca4
+Author: Ksenia999 <ksenia-pakhomova@mail.ru>
+Date:   Thu Dec 17 07:24:29 2015 +0600
+
+    Техническое задание
+
+    Добавлено описание функций, классов и багов.
+
+commit 09323bdfd914a075cc1b64c751d87d22f757255a
+Author: utmo5t <utmo5t@yandex.ru>
+Date:   Thu Dec 17 07:20:24 2015 +0600
+
+    Тест класса Timer
+
+    Добавлен юнит-тест класса Timer.
+    Внесены поправки в код.
+
+commit cbf77b0a1fe4282711594aec1790f0419ec22ab8
+Author: Ksenia999 <ksenia-pakhomova@mail.ru>
+Date:   Thu Dec 17 04:09:55 2015 +0600
+
+    Добавление статусов
+
+    В форму программы добавлены статусы работы, а также во вкладку "Задача"
+    добавлены статусы задачи.
+
+commit 1c7696b18dd97fe729062046c88af8d051b20f65
+Author: Ksenia999 <ksenia-pakhomova@mail.ru>
+Date:   Thu Dec 17 03:03:19 2015 +0600
+
+    Правка интерфейса
+
+    Добавлены иконки, логотип и прочее.
+
+commit ae2945f647c8ce16efc83cb2d116c3011532d847
+Author: utmo5t <utmo5t@yandex.ru>
+Date:   Wed Dec 16 19:11:50 2015 +0600
+
+    Общее время доработок.
+
+    Добавлен подсчет и отображение общего времени доработок.
+
+commit aa5d61bb1db13d41b11e7057cc2fa95e9d63eeee
+Author: utmo5t <utmo5t@yandex.ru>
+Date:   Sun Dec 13 17:55:34 2015 +0600
+
+    Сохранение текущих данных
+
+    Добавлена функция сохранения текущих данных в файл при закрытии
+    программы, а также получение этих данных при запуске.
+
+commit 886f023b3133bc203d4725b7803a4519adedcb94
+Author: utmo5t <utmo5t@yandex.ru>
+Date:   Thu Dec 10 02:49:17 2015 +0600
+
+    Выполнение и доработка задач.
+
+    Реализована функции выполнения и доработки задач.
+    Добавлен подсчет времени на доработку по каждой задаче.
+
+commit c9f7ce3dc4587ab6a3799e389385372ab1b6c6d1
+Author: Ksenia999 <ksenia-pakhomova@mail.ru>
+Date:   Thu Dec 10 01:23:47 2015 +0600
+
+    Статистика работы
+
+    Реализовано отображение информации о количестве задач и общем времени
+    работы на вкладке "Информация".
+
+commit b902d479d3420b7d0c9eae5d2f3a9037c3f3b869
+Author: Ksenia999 <ksenia-pakhomova@mail.ru>
+Date:   Wed Dec 9 21:16:49 2015 +0600
+
+    Класс Executor (Исполнитель)
+
+    Добавлен класс исполнителя (работника)
+
+commit 280f90a5f84b13f0ddfcf9d655f92d703b50fdcf
+Author: utmo5t <utmo5t@yandex.ru>
+Date:   Fri Dec 4 14:50:34 2015 +0600
+
+    Правка кода
+
+    Выделены классы Task и Timer
+
+commit a28fa2692a273f85edc50b4bc7fe6899eac3ff0d
+Author: Ksenia999 <ksenia-pakhomova@mail.ru>
+Date:   Wed Nov 25 02:54:08 2015 +0600
+
+    ТЗ
+
+    Добавлены разделы введение, общее описание и другие.
+
+commit 136d26196d2749a2ccdac6112db4c09c9c9f6422
+Author: Ksenia999 <ksenia-pakhomova@mail.ru>
+Date:   Wed Nov 18 23:42:51 2015 +0600
+
+    Документация
+
+    Введены правки.
+
+commit ff9b36a8603fe28033b4bd81d022e2446e0c9016
+Author: Ksenia999 <ksenia-pakhomova@mail.ru>
+Date:   Wed Nov 18 22:48:23 2015 +0600
+
+    Интерфейс приложения (версия 3)
+
+    Изменен интерфейс приложения.
+
+commit 70a87b950ac1be62209782bbbe6d4c76858b0d96
+Author: Ksenia999 <ksenia-pakhomova@mail.ru>
+Date:   Wed Nov 18 22:30:26 2015 +0600
+
+    Правка интерфеса приложения
+
+    Изменены: цветовая схема, шрифты, стили шрифтов.
+
+commit 76c2a9436065f3dee470c020714d6d33bcbf0e4a
+Author: utmo5t <utmo5t@yandex.ru>
+Date:   Wed Nov 18 19:45:17 2015 +0600
+
+    Правка кода
+
+    Выделены отдельные функции для обработки времени, вывода информации. Код
+    приведен в порядок.
+
+commit 360c56ce5a4cea71bb549123ed4adc23f80d5d4d
+Author: Ksenia999 <ksenia-pakhomova@mail.ru>
+Date:   Tue Nov 17 15:53:13 2015 +0600
+
+    Интерфейс приложения
+
+    Изменен интерфейс приложения ( требуется дальнейшая доработка интерфейса
+    ).
+
+commit d28f98e2540b8ab7a32dafdbbebe2ce0e29333ba
+Author: utmo5t <utmo5t@yandex.ru>
+Date:   Sun Nov 15 15:28:49 2015 +0600
+
+    Доработка функций работы со временем
+
+    Добавлены функции обратного отсчета времени до срока сдачи
+
+commit 7b0bfda68d1d0ca7a2b398d09e998215bb13899d
+Author: utmo5t <utmo5t@yandex.ru>
+Date:   Wed Nov 11 01:44:34 2015 +0600
+
+    Реализованы функции подсчета времени
+
+    Добавлены заготовки задач, возможность их выбора и подсчета рабочего
+    времени по каждой задаче, а также реализован подсчет общего рабочего
+    времени
+
+commit 25b571ca7331fed7e3871de3752d0797cf5def48
+Author: Ksenia999 <ksenia-pakhomova@mail.ru>
+Date:   Fri Nov 6 15:39:05 2015 +0600
+
+    Интерфейс
+
+    Добавлен подробный интерфейс второй версии.
+
+commit 57be5289fafe875fbcdba459147a768e9091de67
+Author: Ksenia999 <ksenia-pakhomova@mail.ru>
+Date:   Thu Nov 5 05:11:08 2015 +0600
+
+    Интерфейс
+
+    Добавлено две версии интерфейса.
+
+commit a89f208af643f2c65d74eeacb34b6ba4cf8dbe9f
+Merge: e61eb4e f809fca
+Author: utmo5t <utmo5t@yandex.ru>
+Date:   Wed Oct 21 21:05:52 2015 +0600
+
+    Merge pull request #2 from ATomilov/master
+
+    Добавить иконку приложения
+
+commit f809fca91dc4a581a1220da6cae33779cf021a67
+Author: ATomilov <tomilovlehach@mail.ru>
+Date:   Tue Oct 20 00:10:07 2015 +0600
+
+    Добавить иконку
+
+commit e61eb4ed337b4dd48782cd75fad61127d1684851
+Author: Ksenia999 <ksenia-pakhomova@mail.ru>
+Date:   Fri Oct 16 12:36:33 2015 +0600
+
+    Изменить заголовок окна.
+
+    Заменен заголовок окна "Time-Manager".
+
+commit a73d479ce96d5749bfed655e0446a8f4495f4730
+Author: Ksenia999 <ksenia-pakhomova@mail.ru>
+Date:   Fri Oct 16 01:42:24 2015 +0600
+
+    План по разработке
+
+    Выделены основные этапы разработки.
+
+commit bc59e449241936eabb702c946c319b6c874f145e
+Author: Ksenia999 <ksenia-pakhomova@mail.ru>
+Date:   Fri Oct 16 01:32:02 2015 +0600
+
+    Наработки ТЗ
+
+    Описание работы приложения
+
+commit fedadd1e611658e3eb0dcc49d2173e0c0f513e6b
+Author: utmo5t <utmo5t@yandex.ru>
+Date:   Fri Oct 16 01:17:34 2015 +0600
+
+    Первая версия Time-Manager-a
+
+    Реализован начальный интерфейс
+    Запуск и остановка подсчета времени

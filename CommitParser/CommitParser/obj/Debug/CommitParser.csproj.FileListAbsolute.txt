@@ -1,0 +1,18 @@
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\CommitParser\CommitParser\bin\Debug\CommitParser.exe.config
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\CommitParser\CommitParser\obj\Debug\CommitParser.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\CommitParser\CommitParser\obj\Debug\CommitParser.Form1.resources
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\CommitParser\CommitParser\obj\Debug\CommitParser.Properties.Resources.resources
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\CommitParser\CommitParser\obj\Debug\CommitParser.csproj.GenerateResource.Cache
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\CommitParser\CommitParser\bin\Debug\CommitParser.exe
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\CommitParser\CommitParser\bin\Debug\CommitParser.pdb
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\CommitParser\CommitParser\obj\Debug\CommitParser.exe
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\CommitParser\CommitParser\obj\Debug\CommitParser.pdb
+C:\Users\Ксения\Desktop\конструирование\CommitParser\CommitParser\bin\Debug\CommitParser.exe.config
+C:\Users\Ксения\Desktop\конструирование\CommitParser\CommitParser\obj\Debug\CommitParser.exe
+C:\Users\Ксения\Desktop\конструирование\CommitParser\CommitParser\obj\Debug\CommitParser.pdb
+C:\Users\Ксения\Desktop\конструирование\CommitParser\CommitParser\bin\Debug\CommitParser.exe
+C:\Users\Ксения\Desktop\конструирование\CommitParser\CommitParser\bin\Debug\CommitParser.pdb
+C:\Users\Ксения\Desktop\конструирование\CommitParser\CommitParser\obj\Debug\CommitParser.csprojResolveAssemblyReference.cache
+C:\Users\Ксения\Desktop\конструирование\CommitParser\CommitParser\obj\Debug\CommitParser.Form1.resources
+C:\Users\Ксения\Desktop\конструирование\CommitParser\CommitParser\obj\Debug\CommitParser.Properties.Resources.resources
+C:\Users\Ксения\Desktop\конструирование\CommitParser\CommitParser\obj\Debug\CommitParser.csproj.GenerateResource.Cache
